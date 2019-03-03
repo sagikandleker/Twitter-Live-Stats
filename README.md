@@ -10,4 +10,4 @@ In this task you should build a python tool that will allow you to monitor and a
 
 | Main | Running |
 |:-:|:-:|
-| ![First](/Images/Main_Page.JPG?raw=tru) | ![Sec](/Images/Donald_Trump.JPG?raw=tru) |
+| ![First](/Images/MainPage.JPG?raw=tru) | ![Sec](/Images/DonaldTrump.JPG?raw=tru) |
